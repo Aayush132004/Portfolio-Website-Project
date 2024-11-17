@@ -472,8 +472,12 @@ input:focus {
     height:auto;
 }
 .section3 .card{
-    height:60vh;
-    width:50vh;
+     height:60vh;
+    width:80%;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
     overflow: hidden;
 }
 .section3 .card .text{
