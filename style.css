@@ -87,7 +87,7 @@ scroll-behavior: smooth;
     margin-left:7vw;
     border: solid blue 7px;
     overflow: hidden;
-    background-image: url("https://github.com/Aayush132004/Portfolio-Website-Project/blob/main/Assets/Profile.jpg");
+    background-image: url("./Assets/Profile.jpg");
     background-size: cover;
     background-position: bottom;
    
