@@ -482,6 +482,7 @@ input:focus {
 }
 .section3 .card .text{
 overflow: scroll;
+padding-left:2em;
 scrollbar-width: none;
 }
 .section1,.section2,.section3{
