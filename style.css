@@ -257,6 +257,7 @@ scroll-behavior: smooth;
 .section3 .card-container{
     height:100%;
     gap:2em;
+    padding-top: 1em;
 }
 .section3 .card{
     text-align: center;
